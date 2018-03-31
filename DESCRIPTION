@@ -1,0 +1,15 @@
+Package: timing
+Type: Package
+Title: A simple timing application for physical exercise runs.
+Version: 1.0.0
+Authors@R: person("Anders", "Bæk", email = "anders@launer.dk",
+                  role = c("aut", "cre"))
+Description: This application has been created and optimized for Krengerupløbet 2018.
+License: GNU General Public License.
+Encoding: UTF-8
+LazyData: true
+Imports:
+    shiny,
+    shinyTime,
+    dplyr
+RoxygenNote: 6.0.1
