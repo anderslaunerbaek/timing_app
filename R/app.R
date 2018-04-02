@@ -12,8 +12,8 @@ library(shinyTime)
 library(dplyr)
 
 # global values -----
-start_1 <- "09:00:00"
-start_2 <- "10:00:00"
+start_1 <- "09:01:32"
+start_2 <- "10:06:05"
 
 # create directory
 path <- "~/Desktop/timestamps"
