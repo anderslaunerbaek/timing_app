@@ -2,6 +2,8 @@
 .Rhistory
 .Rapp.history
 data/*
+R/dev.R
+R/to_wordpress.R
 # Session Data files
 .RData
 # Example code in package build process
